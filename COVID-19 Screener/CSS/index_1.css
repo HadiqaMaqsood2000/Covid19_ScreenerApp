@@ -1,0 +1,49 @@
+#top-div{
+background-color: #E9ECEF;
+padding:30px;
+}
+#logo{
+    width:70px;
+    margin-bottom: 20px;
+}
+#screeningtoolheading{
+    font-weight: bold;;
+}
+#bottom-div{
+    padding:30px;
+    }
+#bottom-div h5{
+font-weight: bold;
+}
+#bottom-div h3{
+    font-weight: bold;
+    }
+    .header{
+        background:linear-gradient(to bottom,  #E9ECEF 0%,#E9ECEF 50%,white 50%,white 100%);
+    }
+    .modal-dialog {
+        position: fixed;
+        width: auto;
+        margin: 0px;
+        pointer-events: none;
+        height: 100%;
+        background-color: white;
+        overflow-y: scroll;
+    }
+
+    .modal-header{
+        border: none;
+    }
+    
+    
+    .questions .question{
+        display: none;
+        }
+        .questions .active{
+            display: block;
+            }
+        
+
+
+
+    
